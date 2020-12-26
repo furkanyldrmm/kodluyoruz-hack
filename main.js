@@ -5,12 +5,12 @@ $(document).ready(function() {
      });
   });
 
-  /*
+  
 
   $(document).ready(function(){
     $("#b").css("display","block");
 });
-*/
+
 $(".cancel").click(function(){
     $("#b").fadeOut();
 });
